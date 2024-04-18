@@ -1,6 +1,6 @@
 apiVersion: v2
 name: nodejsapp
-description: A Helm chart for nodejs
+description: A Helm chart for goapp
 
 # A chart can be either an 'application' or a 'library' chart.
 #
